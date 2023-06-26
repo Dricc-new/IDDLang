@@ -1,0 +1,15 @@
+{
+  "name": "iddlang",
+  "version": "1.0.0",
+  "description": "This is a module for translate languages",
+  "main": "./dist/lang.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dricc-new",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}
